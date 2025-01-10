@@ -20,4 +20,4 @@ Techniques to optimize the performance of your pandas dataframe operations:
 * https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb
 * https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
 
-Made with ❤️ by [Data Max](https://www.data-max.io/)
+Made with ❤️ by [Data Max](https://www.datamax.ai/)
